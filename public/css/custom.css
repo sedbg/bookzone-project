@@ -1,0 +1,44 @@
+body { 
+    background-color:#fff; 
+}
+.navbar-blue {
+    background-color: #131921;
+    color:#fff;
+}
+.text-muted-custom {
+    color:#ccc;
+}
+.btn-orange {
+    background-color: #febd69;
+}
+
+.logo-title {
+    font-size:0.8rem;
+    line-height:0.8rem;
+}
+/* Item */
+.book-cover {
+    width: 100%;
+}
+.book-cover img {
+    width: 100%;
+    border:1px solid #ccc;
+    padding:2px;
+}
+.info {
+    padding-top:20px;
+}
+.info .rating {
+    width: 70%;
+    color: gray;
+    font-size: 24px;
+    line-height:24px;
+    padding-bottom:10px;
+    border-bottom: 0.4px solid #ddd;
+}
+.info .rating span {
+    color: #febd69;
+}
+.description {
+    line-height: 2rem;
+}
